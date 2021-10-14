@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "MailCore2",
-            targets: ["MailCore2"]),
+            targets: ["MailCore"]),
     ],
     targets: [
         .binaryTarget(name: "MailCore",
