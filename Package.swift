@@ -15,7 +15,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "MailCore",
-                      url: "https://github.com/FlowCrypt/mailcore2/releases/download/0.7.0/MailCore.xcframework.zip",
-                      checksum: "216784ee811876955afadee7e59b53e233f42dc6571ded7b71a96ad0895f21c6")
+                      url: "https://github.com/FlowCrypt/mailcore2/releases/download/0.7.5/MailCore.xcframework.zip",
+                      checksum: "6ee650acfa3a37b59ae3a67d5421718f4693e10109160a6adccb4ed003e2e63c")
     ]
 )
